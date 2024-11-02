@@ -1,5 +1,5 @@
 ## Hi there 👋
-- 🔭 **I’m currently working on** *a Pilates Centre Application*
+- 🔭 **I’m currently working on** *a Trivia Application*
 - 🌱 **I’m currently learning** *Jetpack Compose and Electric Guitar*
 - 👯 **I’m looking to collaborate on** *Fun Projects!*
 - 🤔 **I’m looking for help with** *Code Reviews*
