@@ -13,7 +13,7 @@
 - 👯 **I’m looking to collaborate on** *Fun Projects!*
 - 🤔 **I’m looking for help with** *Code Reviews*
 - 💬 **Ask me about** *Android Development!*
-- 📫 **How to reach me:** *via email*
+- 📫 **How to reach me:** *duyenlizeynep@gmail.com*
 - 😄 **Pronouns:** *she/her*
 - ⚡ **Fun fact:** *I learned how to make good chia pudding* 🐣
  
