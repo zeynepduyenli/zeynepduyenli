@@ -15,3 +15,6 @@
 - 🌱 **I’m currently learning** Compose Multi-Platform and SwiftUI
 - 🤔 **I’m looking for help with** Code Reviews
 - 📫 **How to reach me:** duyenlizeynep@gmail.com
+- 👯 **I’m looking to collaborate on** Fun Projects!
+- 💬 **Ask me about** Android Development!
+- 😄 **Pronouns:** she/her
