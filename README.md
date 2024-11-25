@@ -18,3 +18,4 @@
 - 👯 **I’m looking to collaborate on** Fun Projects!
 - 💬 **Ask me about** Android Development!
 - 😄 **Pronouns:** she/her
+- ⚡ **Fun fact:** I learned how to make a good chia pudding
