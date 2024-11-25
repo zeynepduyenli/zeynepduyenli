@@ -8,13 +8,10 @@
 </div>
 
 ## Hi there 🖖🏻
-- 🔭 **I’m currently working on** *a Trivia Application*
-- 🌱 **I’m currently learning** *Jetpack Compose and Electric Guitar*
-- 👯 **I’m looking to collaborate on** *Fun Projects!*
-- 🤔 **I’m looking for help with** *Code Reviews*
-- 💬 **Ask me about** *Android Development!*
-- 📫 **How to reach me:** *duyenlizeynep@gmail.com*
-- 😄 **Pronouns:** *she/her*
-- ⚡ **Fun fact:** *I learned how to make good chia pudding* 🐣
- 
+<img align="right" src="https://i.giphy.com/media/v1.Y2lkPTc5MGI3NjExZGdicmMzenM0MmNydWNreTF4Z3ZrbGZmeHVodGVoY2F5am1udDN5MCZlcD12MV9pbnRlcm5hbF9naWZfYnlfaWQmY3Q9Zw/10xnwAvwi4Wh8s/giphy-downsized.gif"/>
 
+
+- 🔭 **I’m currently working on** a Pilates Center's Application
+- 🌱 **I’m currently learning** Compose Multi-Platform and SwiftUI
+- 🤔 **I’m looking for help with** Code Reviews
+- 📫 **How to reach me:** duyenlizeynep@gmail.com
