@@ -12,7 +12,7 @@
 
 
 - 🔭 **I’m currently working on** a Pilates Center's Application
-- 🌱 **I’m currently learning** Compose Multi-Platform and SwiftUI
+- 🌱 **I’m currently learning** Compose Multi-Platform
 - 🤔 **I’m looking for help with** Code Reviews
 - 📫 **How to reach me:** duyenlizeynep@gmail.com
 - 👯 **I’m looking to collaborate on** Fun Projects!
